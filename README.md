@@ -18,12 +18,12 @@ import api from 'ardy-api' // can be replaced
 ```
 
 ## Feature
-* Encrypt
-* Information
-* Downloader
-* Searching
-* Primbon
-* Other
+* [Encrypt](#encrypt)
+* [Information](#information)
+* [Downloader](#downloader)
+* [Searching](#searching)
+* [Primbon](#primbon)
+* [Other](#other)
 
 # Encrypt
 ```js
@@ -56,7 +56,7 @@ console.log(result)
 ```js
 
 // aiovideodl
-const result = api.downloader.aiovideodl(Url)
+const result = api.downloader.aiovideodl("Url")
 console.log(result)
 ```
 # Searching

@@ -1,0 +1,31 @@
+{
+  "name": "ardy-api",
+  "version": "1.4.0",
+  "description": "Ardy Api Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdyBotzz/ardy-api.git"
+  },
+  "keywords": [
+    "ardyapi",
+    "api",
+    "scraper",
+    "baileys"
+  ],
+  "author": "ArdyGanz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArdyBotzz/ardy-api/issues"
+  },
+  "homepage": "https://github.com/ArdyBotzz/ardy-api#readme",
+  "dependencies": {
+    "axios": "^0.27.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
